@@ -1,0 +1,25 @@
+Para conocer cuantas letras tiene una palabra
+
+Algoritmo:
+1. Solicitar al usuario que ingrese una palabra
+2. Contamos la cantidad de letras en la palabra ingresada
+3. Mostramos al ususario cuantas letras contenia su palabra.
+
+Pseudocodigo
+
+Inicio programa
+
+    # Paso 1: Solicitud de palabra
+    Mostrar mensaje: "Por favor ingrese una palabra: "
+    Definir variable  palabra_asignada con la lectura de entrada
+
+    # Paso 2: Contar cantidad de letras
+    Definir variable can_letras y asignarle la longitud de palabra_asignada
+
+    # Paso 3: Mostrar resultado
+    Mostrar mensaje: "La palabra ingresada tiene ", cant_letras, " letras."
+
+FIn programa
+
+Para hacer Diagramas de Flujo ir a miro.com o draw.io
+
